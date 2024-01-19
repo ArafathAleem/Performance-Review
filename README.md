@@ -5,9 +5,8 @@ An application that allows employees to submit feedback toward each other’s pe
 
 Sign in Using email id and password
 For Admin:-
-New sign-up user admin 
-admin email_id
-password
+admin email_id admin001@gmail.com
+password Admin@001
 
 **Sign Up:-**
 
